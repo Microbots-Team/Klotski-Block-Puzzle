@@ -23,10 +23,10 @@ This system adds an intelligent, interactive layer to traditional gameplay, maki
 
 ---
 
-## 🌐 Connect with Us
-Let’s connect and share creative ideas!  
+## 👨‍💻 Contributors:
+Special thanks to : 
 
-- [Malek]()  
+- **Malek Shammout** [LinkedIn](https://www.linkedin.com/in/malek-shammout-090523337/)  
 
 
 ---
@@ -44,6 +44,11 @@ Let’s connect and share creative ideas!
 - Implement sound or LED feedback for correct/incorrect placements  
 - Create multiple puzzle difficulty levels  
 - Connect to a mobile or web app for progress tracking  
+
+---
+
+## 📸 Demo
+**Coming soon!**
 
 ---
 
