@@ -1,5 +1,14 @@
 # 🧩 Klotski Block Puzzle
 
+<img src="images/1.png" alt="Screenshot">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
+- **Date:** November 10–11–12, 2025
+
+---
+
 ## 💡 Project Overview
 The **Klotski Block Puzzle** is an **interactive smart puzzle game** designed to merge the fun of classic puzzles with modern sensing technology.  
 Players must arrange the blocks of varying sizes into their correct positions **within a time limit** to complete the challenge.  
